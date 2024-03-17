@@ -1,0 +1,21 @@
+.table-container {
+    max-height: 400px;
+    overflow-y: auto; 
+    margin-top: 20px; 
+}
+
+.add-button {
+    margin-top: 20px; 
+    margin-left: 20px; 
+}
+
+
+.paginator-container {
+    margin-top: 20px; 
+}
+
+
+.action-buttons button {
+    margin-right: 10px; 
+}
+

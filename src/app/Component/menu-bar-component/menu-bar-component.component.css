@@ -1,0 +1,27 @@
+.space{
+    flex: 1 1 auto;
+}
+
+.bell-icon{
+    margin-right:20px!important;
+    display: inline-block;
+    vertical-align: bottom;
+    }
+    .logout{
+      display: inline-block;
+      width: 100%;
+      text-align: right;
+      vertical-align: bottom;
+    }
+
+
+    .footer {
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+      background-color: #f8f9fa; /* Change the background color as needed */
+      text-align: center;
+      padding: 20px 0; /* Adjust padding as needed */
+      color: #333; /* Adjust text color as needed */
+  }
+  
