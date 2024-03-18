@@ -1,27 +1,27 @@
-# AssesmentUI
+# Project Title
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
+Contact Management.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Installation
 
-## Code scaffolding
+Get Code From GIT and Run in terminal -- ng serve
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Usage
 
-## Build
+This project is a contact management application where users can save and edit contact details. To access the application, use the following login credentials:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Username: admin
+Password: admin123
+After logging in, you can view existing contact data with filtering and pagination options. You can also add, edit, and delete records.
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## License
 
-## Running end-to-end tests
+Specify the license under which your project is distributed.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Acknowledgments
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Angular - The web framework used
+Bootstrap - Frontend framework for styling
+Special thanks to contributors and users who provided feedback and support.
